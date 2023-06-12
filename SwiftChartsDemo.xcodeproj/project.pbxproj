@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3FD2B2EE2A37AE7C005E43EC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3FFCE1A72A3793DC000DE808 /* SwiftChartsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftChartsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FFCE1AA2A3793DC000DE808 /* SwiftChartsDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftChartsDemoApp.swift; sourceTree = "<group>"; };
 		3FFCE1AC2A3793DC000DE808 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		3FFCE19E2A3793DC000DE808 = {
 			isa = PBXGroup;
 			children = (
+				3FD2B2EE2A37AE7C005E43EC /* README.md */,
 				3FFCE1A92A3793DC000DE808 /* SwiftChartsDemo */,
 				3FFCE1A82A3793DC000DE808 /* Products */,
 			);
